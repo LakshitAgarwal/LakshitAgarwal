@@ -1,7 +1,8 @@
 # <h1 align="center">Hi 👋, I'm Lakshit Agarwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHN1M2ptajA4aWhoaHczZnd1aDJ3dmVxM3V6emRsdW5xczN0Nm9ocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.webp" alt="Coding GIF" width="400" align="right">
+<img src="https://i.imgur.com/MvMxQ1a.gif" alt="Coding GIF" width="500" align="right">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshitagarwal&label=Profile%20views&color=0e75b6&style=flat" alt="lakshitagarwal" /> </p>
 
