@@ -11,7 +11,7 @@
 - 🌱 I'm currently learning **NextJs**
 - 👯 I'm looking to collaborate on **anything**
 - 💬 Ask me about **JavaScript, TypeScript, React**
-- 📫 How to reach me **lakshitcollege@gmail.com**
+- 📫 How to reach me **lakshit7811@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
