@@ -38,11 +38,13 @@
   <a href="https://github.com/lakshitagarwal">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lakshitagarwal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Lakshit's GitHub Stats"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/lakshitagarwal">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshitagarwal&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages"/>
   </a>
 </div>
 
+<br/>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lakshitagarwal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
 </div>
@@ -56,12 +58,15 @@
   <a href="https://www.linkedin.com/in/lakshit-agarwal-6082b9216/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/lakshitagarwal7">
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/lakshit.7811">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:lakshit7811@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40"/>
   </a>
